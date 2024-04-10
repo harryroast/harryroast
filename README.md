@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bark Buddies🐕](https://github.com/vincent-chpd/bark-buddies)
 
-- 🌱 I’m currently learning **React (https://skillicons.dev/icons?i="react")**
+- 🌱 I’m currently learning **React <img width="18" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">**
 
 - 💬 Ask me about **Ruby on rails😇**
 
